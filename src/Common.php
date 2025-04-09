@@ -1,6 +1,6 @@
 <?php
 
-namespace Vendor\CommonFunction;
+namespace vendor2025\CommonFunction;
 
 
 /**

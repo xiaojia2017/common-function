@@ -1,9 +1,9 @@
 <?php
 
-namespace vendor\CommonFunction\Tests;
+namespace vendor2025\CommonFunction\Tests;
 
 use PHPUnit\Framework\TestCase;
-use vendor\CommonFunction\Common;
+use vendor2025\CommonFunction\Common;
 
 class CommonTest extends TestCase
 {

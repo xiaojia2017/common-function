@@ -1,15 +1,15 @@
 {
-    "name": "vendor/common-function",
+    "name": "vendor2025/common-function",
     "description": "A package containing common PHP methods",
     "type": "library",
     "autoload": {
         "psr-4": {
-            "vendor\\CommonFunction\\": "src/"
+            "vendor2025\\CommonFunction\\": "src/"
         }
     },
 	"autoload-dev": {
         "psr-4": {
-            "vendor\\CommonFunction\\Tests\\": "tests/"
+            "vendor2025\\CommonFunction\\Tests\\": "tests/"
         }
     },
     "require": {
