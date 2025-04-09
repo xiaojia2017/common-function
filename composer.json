@@ -1,0 +1,28 @@
+{
+    "name": "vendor/common-function",
+    "description": "A package containing common PHP methods",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "vendor\\CommonFunction\\": "src/"
+        }
+    },
+	"autoload-dev": {
+        "psr-4": {
+            "vendor\\CommonFunction\\Tests\\": "tests/"
+        }
+    },
+    "require": {
+        
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.3"
+    },
+    "license": "MIT", 
+    "authors": [
+        {
+            "name": "lucky",
+            "email": "2054178987@example.com"
+        }
+    ]
+}
